@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WorldCinema</string>
+    <string name="back">Закрыть</string>
+    <string name="error">Ошибка</string>
+    <string name="fio">У вас не заполнены поля</string>
+    <string name="pass">Несовпадение паролей</string>
+    <string name="mail">Неверный формат почты</string>
+</resources>
